@@ -36,7 +36,7 @@ const directDomains = [
     { domain: "mfa.gov.ua" },
     { domain: "cf.877774.xyz" },
     { domain: "777.ai7777777.xyz" },
-    { domain: "ns.cloudflare.comz" },
+    { domain: "ns.cloudflare.com" },
 ];
 
 // 默认优选IP来源URL
