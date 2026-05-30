@@ -30,6 +30,13 @@ const directDomains = [
     { domain: "cloudflare-ip.mofashi.ltd" },
     { domain: "cf.877771.xyz" },
     { domain: "xn--b6gac.eu.org" }
+    { domain: "www.shopify.com" }
+    { domain: "www.udacity.com" }
+    { domain: "saas.sin.fan" }
+    { domain: "mfa.gov.ua" }
+    { domain: "cf.877774.xyz" }
+    { domain: "777.ai7777777.xyz" }
+    { domain: "ns.cloudflare.comz" }
 ];
 
 // 默认优选IP来源URL
